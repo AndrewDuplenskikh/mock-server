@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "cardName": "Mama",
+    "maskCardNumber": "4526",
+    "paymentSystemType": "MasterCard",
+    "balance": "5000",
+    "dateLastUse": "2022-01-18T03:20:18"
+  },
+  {
+    "id": 2,
+    "cardName": "Зарплатная",
+    "maskCardNumber": "4355",
+    "paymentSystemType": "Visa",
+    "dateLastUse": "2022-01-15T03:20:18"
+  },
+  {
+    "id": 3,
+    "cardName": "Papa",
+    "maskCardNumber": "4228",
+    "paymentSystemType": "Visa",
+    "dateLastUse": "2022-04-15T03:20:18"
+  },
+  {
+    "id": 4,
+    "cardName": "33",
+    "maskCardNumber": "4355",
+    "paymentSystemType": "Visa",
+    "dateLastUse": "2021-01-15T03:20:18"
+  }
+]

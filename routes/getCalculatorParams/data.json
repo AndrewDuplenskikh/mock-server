@@ -1,0 +1,38 @@
+{
+  "min": 30000,
+  "max": 300000,
+  "terms": [
+    {
+      "value": 12,
+      "title": "1 год"
+    },
+    {
+      "value": 24,
+      "title": "2 года"
+    },
+    {
+      "value": 36,
+      "title": "3 года"
+    },
+    {
+      "value": 48,
+      "title": "4 года"
+    },
+    {
+      "value": 60,
+      "title": "5 лет"
+    },
+    {
+      "value": 72,
+      "title": "6 лет"
+    },
+    {
+      "value": 84,
+      "title": "7 лет"
+    }
+  ],
+  "loanRate": 24.5,
+  "loanRateWithInsuranceProtection": 14.5,
+  "insuranceProtectionCost": 4.2,
+  "insurer": "ООО СК “Ренессанс Жизнь”"
+}
